@@ -3,8 +3,7 @@
 
 # # Pattern Similarity Search (PSS)
 # 
-# A michanish to impute time series which perform better than Linear Interpolation, Mean-based Interpolation, ARIMA, LSTM
-# The PSS gives outstanding results when the time series is longer and the inputation gap is long-term. The models like ARIMA and LSTM does not perform well for long-term gaps. Also, PSS can perseve the shape of the missing values.
+# A method to impute time series which perform better than Linear Interpolation, Mean-based Interpolation, ARIMA, LSTM. The PSS gives outstanding results when the time series is longer and the imputation gap is long-term. The models like ARIMA and LSTM does not perform well for long-term gaps. Also, PSS can preserve the shape of the missing values.
 
 # In[211]:
 
